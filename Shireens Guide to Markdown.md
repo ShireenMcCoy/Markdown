@@ -24,11 +24,8 @@ Three stars `***` makes a horizontal line:
 11. The first item will be whatever number you type.
 5. Each number you add after that will be renamed so that they follow sequentially from the first number.
 6. For example, if you make a list and number your entries 5, 7, 3, 14, they will display as 5, 6, 7, 8. 
-    1. Adding a tab, followed by a number and a dot, will give you a sub-item.
-    7. Sub items start with a capitalized letter. 
-    2. If you type `1.` before your first sub-item, it will start with an `A.`
-    3. If you type `7.` before your first sub-item, it will start with a `G`, because G is the 7th letter of the alphabet.
-    3. No matter which numbers you type for subsequent sub-items, they will be renamed to follow the first item alphabetically.
+    7. Adding a tab, followed by a number and a dot, will give you a sub-item.
+ 
    
 ![my image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPlrrfup8Z2kVr9o4aLnWf47CkbuLB29-tA&usqp=CAU)
     
