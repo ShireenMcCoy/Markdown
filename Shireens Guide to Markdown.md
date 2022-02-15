@@ -10,8 +10,8 @@
 ###### Heading 6 - starts with six `######`
 (There is no heading 7 or greater)
 
-Two underscores `__` or two stars `**` on either side of a word makes it __bold__<br>
-One star `*` or one underscore `_` on either side of a word *italicizes* it<br>
+Two underscores `__` or two stars `**` on both sides of a word makes it __bold__<br>
+One star `*` or one underscore `_` on both sides of a word *italicizes* it<br>
 
 Monospace text is surrounded by `` `backticks.` ``
 
