@@ -40,4 +40,20 @@ To add a [link](https://www.markdownguide.org/basic-syntax/), use `[link text](u
 
 If you want to display a ~~crossed-out~~ word in markdown, surround it with two tildes `~~` (no space before the word) on each side.
 
+To add a table, put a pipe `|` between each column name and column item. Put three or more hyphens `---` below the line that contains your column names. It's not always required, but you can also add pipes `|` on at the beginning and end of each row. This makes it look clean and readable even in plain text format:
+
+`| Name Col 1   | Name Col 2   |`\
+`| -----------  | -------------|`\
+`| item 1 col 1 | item 1 col 2 |`\
+`| item 2 col 1 | item 2 col 2 |`
+ 
+
+**renders as:** 
+
+| Name Col 1   | Name Col 2   |
+| -----------  | -------------|
+| item 1 col 1 | item 1 col 2 |
+| item 2 col 1 | item 2 col 2 |
+
+
 ### The End!
